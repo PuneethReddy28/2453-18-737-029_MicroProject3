@@ -4,9 +4,9 @@ The main objective of This project is to understand how Node.js, Express and Mon
 How to connect database to the server?
 How to create, retrieve, update and delete the data from database?
 How to present the data of Inventory in a presentable manner using HTML, CSS and Bootstrap.
-Prerequisites
+
 You will need the following things to get started with this project:
 
-HTML
-CSS
+HTML,
+ CSS and
 Java Script
